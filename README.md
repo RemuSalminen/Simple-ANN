@@ -17,7 +17,8 @@ Builds on Windows 11 using clang and vs.
   </summary>
 
 - Visualization of the MNIST images and their respective labels.
-- Implementation of 2nd hidden layer and other improvements.
+- General performance optimizations (Currently plainfully slow)
+- Implementation of 2nd hidden layer and other accuracy improvements.
 
 </details>
 
